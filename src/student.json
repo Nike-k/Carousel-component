@@ -1,0 +1,22 @@
+{
+    "information": [
+      {
+        "name": "Nikesh Maharjan",
+        "contact": "9813503419",
+        "address": "Kirtipur",
+        "url": "./img/1.jpg"
+      },
+      {
+        "name": "Dibesh Maharjan",
+        "contact": "9860000000",
+        "address": "Kirtipur",
+        "url": "./img/2.jpg"
+      },
+      {
+        "name": "Reeman Napit",
+        "contact": "9800000000",
+        "address": "Kirtipur",
+        "url": "./img/3.jpg"
+      }
+    ]
+  }
